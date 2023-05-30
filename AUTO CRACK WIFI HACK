@@ -1,0 +1,24 @@
+AUTO CRACK
+No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For You Any Wifi-Password..!
+
+⚠️WARNING!⚠️ Root Required
+
+Tested On:
+Kali Linux
+BlackArch Linux
+Ubuntu
+Kali Nethunter
+Termux ( Rooted Devices)
+Parrot OS
+
+INSTALLATION ⏬
+Kali Linux / Ubuntu / Parrot OS
+
+[1] sudo apt-get update && apt-get install git
+[2] sudo git clone https://github.com/Err0r-ICA/AutoCrack
+[3] cd AutoCrack
+[4] sudo python2 AutoCrack
+
+⚠️ For more information and use of this tool in termux visit github link of this tool.
+
+NOW ENJOY AND USE THE TOOL... 🫡 @CyberRegulers
