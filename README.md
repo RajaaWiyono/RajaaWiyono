@@ -20,12 +20,12 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
 
-## YOUTUBE  
-![RAJAA-WIYONO's MY YOUTUBE](https://img.shields.io/badge/Youtube-25D366?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/@Cybers_Regulers)
+## MY SOCIAL MEDIA🌐
+[![forthebadge cc-nc](https://img.shields.io/badge/Youtube-25D366?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/@Cybers_Regulers)
 
 ```👥 My contact```
 
-[![forthebadge cc-nc](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http )]( s://wa.me/+62882147492915)
+[![forthebadge cc-nc](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+62882147492915)
 
 [![forthebadge cc-nc](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092394794122)
 
