@@ -25,5 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 ```👥 My contact```
 
-[![forthebadge cc-nc](https://img.shields.io/badge/WhatsApp-25D366?sty(62882147492915)
+[![forthebadge cc-nc](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+62882147492915)
+
 [![forthebadge cc-nc](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092394794122)
+
